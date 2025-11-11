@@ -1,0 +1,16 @@
+[
+        {
+        "device_id": "d88bf57f7c57779a",
+        "key": "Mayank",
+        "expirydate": "03-12-2025",
+        "Allowoffline": false,
+        "user": "mayank"
+        },
+        {
+        "device_id": "b7fcd04f7c59af3d",
+        "key": "opjat",
+        "expirydate": "03-12-2025",
+        "Allowoffline": false,
+        "user": "opjat"
+        }
+]
